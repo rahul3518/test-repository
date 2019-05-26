@@ -1,0 +1,118 @@
+.heading1 {
+    font-size: 40px;
+    color:white;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,sans-serif;
+}
+
+.heading2 {
+	color: #00f7fe;
+    font-size: 50px;
+}
+.heading2 .heading22 {
+    color: #ff5f5f;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,sans-serif;
+}
+.headings{
+	text-align: center;
+    /*bottom: 20px;*/
+    position: absolute;
+    /*padding-top: 200px;*/
+    top:50%;
+    left:25%;
+}
+
+
+.buyerimg {
+    /*height: auto;*/
+    background-image:url("file:///Users/ankita/Desktop/my%20prgs/buyers.jpg");
+     width: 100%;
+    height: 310px;
+   /* text-align: center;*/
+    position: relative;
+    background-color: #3c4250!important;
+}
+
+.sections{
+	margin-bottom: 0;
+    border-radius: 0;
+    border: none;
+    /*border-top: 10px;*/
+    background-color: gray;
+    text-align: center;
+    position:relative;
+    top:20px;
+    }
+
+.ques .faqs{
+	top:30px;
+	text-align:left;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+ a:link {
+	text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+
+	color: black
+	}
+
+.container a:hover { 
+    text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: red;
+}
+
+style-all.min-P…09880e7b.css:1
+
+* {
+    outline: 0;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,sans-serif;
+}
+div{
+	display:block;
+}
+
+.ques{
+ width:100%;
+ text-align:center;
+
+}
+.sec{
+	color:black;
+}
+
+.faqs .section  a:hover{
+    text-decoration: none;
+    font-family: Cambria, serif;
+    color : #ff5f5f;
+}
+
+.ques .section{
+width:100%;
+font-size: 20px;
+/*border: 5px solid green;*/
+color:gray;
+}
+
+/*li {
+    list-style-type: none;
+}
+li:before {
+    content: '\2022';
+    color: red;
+    padding-right: 0.5em;
+}*/
